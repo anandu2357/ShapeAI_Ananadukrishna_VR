@@ -1,5 +1,5 @@
-# ShapeAI_Ananadukrishna_VR
-Basic python and deep learning-7 days hands on bootcamp
+
+
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
